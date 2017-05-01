@@ -15,14 +15,14 @@ upload.php
 .gitignore
 
 # config
-tsconfig.json
-tsconfig-aot.json
-webpack.config.js
-config
-gulpfile.js
+#tsconfig.json
+#tsconfig-aot.json
+#webpack.config.js
+#config
+#gulpfile.js
 
 # aot
-aot
+#aot
 
 # misc
 .github
